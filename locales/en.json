@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "name": "English",
+  "ui": {
+    "stage_prefix": "Dungeon",
+    "enter_button": "Enter",
+    "continue_button": "Continue",
+    "return_button": "Return",
+    "close_button_types": ["teal_square", "red_circle"]
+  },
+  "progression": {
+    "zone1": [
+      "Rainbow Meadow",
+      "Mist Forest",
+      "Sunshine Coast",
+      "Scream Volcano",
+      "Thunder Canyon",
+      "Lovesong Desert",
+      "Starlight Plain",
+      "Moonlight Valley",
+      "Cuckoo Mountain",
+      "Down Island",
+      "Fate Hill",
+      "Forgotten Swamp",
+      "Glass Lake",
+      "Dragon Ruins"
+    ],
+    "zone2": [
+      "Granite Cave",
+      "Petalburg Woods",
+      "Rusturf Tunnel",
+      "Mt. Chimney",
+      "Meteor Falls",
+      "Jagged Pass",
+      "Cave of Origin",
+      "Mr. Pyre",
+      "Shoal Cave",
+      "Seafloor Cavern",
+      "Secret Meadow",
+      "Victory Road",
+      "Pokemon League"
+    ]
+  },
+  "chapters": {
+    "1":  { "name": "Rainbow Meadow",    "aliases": ["rainbow meadow", "rainbow marsh", "campo arco-iris", "campo arco iris"] },
+    "2":  { "name": "Mist Forest",       "aliases": ["mist forest", "floresta da nevoa"] },
+    "3":  { "name": "Sunshine Coast",    "aliases": ["sunshine coast", "sunny coast", "costa ensolarada", "sun beach"] },
+    "4":  { "name": "Scream Volcano",    "aliases": ["scream volcano", "screaming volcano", "vulcao gritante", "volcano"] },
+    "5":  { "name": "Thunder Canyon",    "aliases": ["thunder canyon", "canyon do trovao"] },
+    "6":  { "name": "Lovesong Desert",   "aliases": ["lovesong desert", "love song desert", "deserto de love song"] },
+    "7":  { "name": "Starlight Plain",   "aliases": ["starlight plain", "starry plain", "planicie estrelada", "star plain"] },
+    "8":  { "name": "Moonlight Valley",  "aliases": ["moonlight valley", "vale do luar", "moonlight river"] },
+    "9":  { "name": "Cuckoo Mountain",   "aliases": ["cuckoo mountain", "montanha cuckoo", "snow mountain"] },
+    "10": { "name": "Down Island",       "aliases": ["down island", "dawn island", "ilha do alvorecer"] },
+    "11": { "name": "Fate Hill",         "aliases": ["fate hill", "destiny vale", "vale do destino", "jagged pass", "jaqqed pass"] },
+    "12": { "name": "Forgotten Swamp",   "aliases": ["forgotten swamp", "pantano esquecido", "memory swamp"] },
+    "13": { "name": "Glass Lake",        "aliases": ["glass lake", "ice lake", "lago de gelo", "crystal lake"] },
+    "14": { "name": "Dragon Ruins",      "aliases": ["dragon ruins", "ruinas dragao"] }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "language": "vi",
+  "name": "Tiếng Việt",
+  "ui": {
+    "stage_prefix": "Ải",
+    "enter_button": "Vào ải",
+    "continue_button": "Tiếp tục",
+    "return_button": "Về",
+    "close_button_types": ["red_circle", "teal_square"]
+  },
+  "chapters": {
+    "1":  { "name": "Đầm Lầy Cầu Vồng", "aliases": ["dam lay cau vong", "dam lay", "campo arco-iris"] },
+    "2":  { "name": "Rừng Sương Mù",    "aliases": ["rung suong mu", "floresta da nevoa"] },
+    "3":  { "name": "Bờ Biển Mặt Trời", "aliases": ["bo bien mat troi", "costa ensolarada"] },
+    "4":  { "name": "Núi Lửa",          "aliases": ["nui lua", "vulcao gritante"] },
+    "5":  { "name": "Vực Tia Sét",      "aliases": ["vuc tia set", "canyon do trovao"] },
+    "6":  { "name": "Tình Ca Sa Mạc",   "aliases": ["tinh ca sa mac", "deserto de love song"] },
+    "7":  { "name": "Đồng Bằng Sao",    "aliases": ["dong bang sao", "planicie estrelada"] },
+    "8":  { "name": "Sông Ánh Trăng",   "aliases": ["song anh trang", "vale do luar"] },
+    "9":  { "name": "Núi Tuyết",        "aliases": ["nui tuyet", "montanha cuckoo"] },
+    "10": { "name": "Đảo Rạng Đông",    "aliases": ["dao rang dong", "ilha do alvorecer"] },
+    "11": { "name": "Đồi Vận Mệnh",     "aliases": ["doi van menh", "vale do destino"] },
+    "12": { "name": "Đầm Hồi Ức",       "aliases": ["dam hoi uc", "pantano esquecido"] },
+    "13": { "name": "Hồ Thủy Tinh",     "aliases": ["ho thuy tinh", "lago de gelo"] },
+    "14": { "name": "Di Tích Rồng",     "aliases": ["di tich rong", "ruinas dragao"] }
+  }
+}
